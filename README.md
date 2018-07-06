@@ -2,4 +2,5 @@
 
 Each folder contains the codes behind articles published at [blog.coinfabrik](https://blog.coinfabrik.com). The articles are:
 
-* What i've learned from my first arbitrage experiences
+* What I've Learned From my First Arbitrage Experiences
+* A Review on Cryptoasset Valuation Models

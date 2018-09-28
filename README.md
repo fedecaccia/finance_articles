@@ -5,3 +5,4 @@ Each folder contains the codes behind articles published at [blog.coinfabrik](ht
 * What I've Learned From my First Arbitrage Experiences
 * A Review on Cryptoasset Valuation Frameworks
 * Analyzing Blockchain Networks with Metcalfe’s and Odlyzko’s laws
+* A Summary of Satis Group’s Latest Cryptoasset Valuation Report

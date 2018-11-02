@@ -6,3 +6,4 @@ Articles and some codes behind them published at [blog.coinfabrik](https://blog.
 * A Review on Cryptoasset Valuation Frameworks
 * Analyzing Blockchain Networks with Metcalfe’s and Odlyzko’s laws
 * A Summary of Satis Group’s Latest Cryptoasset Valuation Report
+* An Efficient Algorithm to Exploit Arbitrage Opportunities in Crypto Markets
